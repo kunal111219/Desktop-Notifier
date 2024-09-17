@@ -16,8 +16,8 @@ This Python application fetches news updates from an RSS feed and displays them 
 1. **Clone the Repository**
 
     ```bash
-    git clone https://github.com/username/desktop_notifier.git
-    cd desktop_notifier
+    git clone https://github.com/kunal111219/Desktop-Notifier.git
+    cd Desktop-Notifier
 
 2. **Install Dependencies**
 
@@ -32,11 +32,11 @@ This Python application fetches news updates from an RSS feed and displays them 
 
 2. **Configuration**
 
-- The RSS feed URL is set to BBC News RSS feed (<http://feeds.bbci.co.uk/news/rss.xml>). You can modify RSS_FEED_URL in the script if you want to use a different RSS feed.
+- The RSS feed URL is set to BBC News RSS feed (<http://feeds.bbci.co.uk/news/rss.xml>). You can modify RSS_FEED_URL in the script to use a different RSS feed.
 
 ## Contributing
 
-- Feel free to contribute to this project by submitting issues or pull requests. For major changes, please open an issue first to discuss what you would like to change.
+- Feel free to contribute to this project by submitting issues or pull requests. For major changes, please open an issue first to discuss what you want to change.
 
 ## Contact
 
